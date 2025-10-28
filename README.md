@@ -5,7 +5,7 @@ This dashboard demonstrates my ability to clean, model, analyze, and visualize o
 
 ---
 
-![Dashboard](/image/Report_pdf.pdf)
+![Dashboard](/image/dashboard_image.png)
 
 ## 📊 Project Overview
 
